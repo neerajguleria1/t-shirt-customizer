@@ -10,7 +10,7 @@ A simple React app that allows users to customize a T-shirt by:
 
 ##  Preview
 
-<img src="./preview.png" width="600" />
+https://github.com/neerajguleria1/t-shirt-customizer
 
 ---
 
